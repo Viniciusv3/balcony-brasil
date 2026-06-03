@@ -1,0 +1,88 @@
+Locais com Balcony Brasil (63 unidades)
+
+BAHIA (1)
+* salvador e interior Bahia
+
+SAO PAULO (ABC) (2)
+* Santo André 
+* São Bernardo 
+
+SÃO PAULO (interior) (2)
+* Campinas
+* Ribeirão Preto 
+
+DISTRITO FEDERAL (1)
+* Brasilia
+
+MINAS GERAIS (2)
+* Belo Horizonte 
+* Uberlandia
+
+GOIAS (1)
+* Goiania
+
+PERNAMBUCO (1)
+* Recife
+
+MATO GROSSO DO SUL (4)
+* Campo Grande (1)
+* Campo Grande (2)
+* Dourados 
+* Cuiaba
+
+RORAIMA (1)
+* Nova Brasília
+
+PARANÁ (32)
+* Curitiba e região metropolitana 
+* Apucarana
+* Astorga
+* Ponta Grossa (1)
+* Ponta Grossa (2) 
+* Cascavel (1)
+* Cascavel (2)
+* Cascavel (3)
+* CAscavel (4)
+* Cascavel (5)
+* Cascavel (6)
+* Foz do iguaçu
+* Francisco Beltrão
+* Guarapuava
+* Guaratuba (1)
+* Guaratuba (2)
+* Guaratuba (3)
+* Matinhos
+* Londrina (1)
+* Nova Londrina (2)
+* Maringa (1)
+* Maringa (2)
+* Maringa (3)
+* Maringa (4)
+* Maringa (5)
+* Maringa (6)
+* São Mateus do Sul
+* Toledo
+* Toledo (2) , Cascavel e Foz do Iguacu
+* Campo Grande (1)
+* Campo Grande (2)
+* Dourados
+
+RIO GRANDE DO SUL (5)
+* Porto Alegre
+* Caxias
+* Caxias (2)
+* Nova Prata
+* Veranópolis
+
+SANTA CATARINA (11)
+* Camboriú (1)
+* Camboriú (2)
+* Concórdia
+* Blumenau
+* Joinvile (1)
+* Joinvile (2)
+* Florianópolis
+* Faxinal do Guedes
+* Indaial
+* Mafra
+* Xanxerê

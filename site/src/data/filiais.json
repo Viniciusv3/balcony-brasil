@@ -1,0 +1,501 @@
+[
+  {
+    "estado": "Bahia",
+    "sigla": "BA",
+    "filiais": [
+      {
+        "cidade": "Salvador e Interior",
+        "endereco": "Rua do Sangradouro, nº 69 - Matatu - CEP 40255-210",
+        "telefones": ["(71) 3034-8060", "(71) 4103-6599"],
+        "email": "comercial.ba@balconybrasil.com.br",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+do+Sangradouro+69+Matatu+Salvador+BA"
+      }
+    ]
+  },
+  {
+    "estado": "Distrito Federal",
+    "sigla": "DF",
+    "filiais": [
+      {
+        "cidade": "Brasília",
+        "endereco": "Rua 10A - Chácara 124 - Lote 01/02 - Vicente Pires - CEP 72007-160",
+        "telefones": ["(61) 3522-6315", "(61) 99991-8603"],
+        "email": "comercial.df@balconybrasil.com.br",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+10A+Chacara+124+Vicente+Pires+Brasilia+DF"
+      }
+    ]
+  },
+  {
+    "estado": "Goiás",
+    "sigla": "GO",
+    "filiais": [
+      {
+        "cidade": "Goiânia",
+        "endereco": "Av. Laudelino Gomes, nº 179 - Setor Pedro Ludovico - CEP 74830-090",
+        "telefones": ["(62) 3275-8004", "(62) 3283-7159"],
+        "email": "contato.go@balconybrasil.com.br",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Av+Laudelino+Gomes+179+Setor+Pedro+Ludovico+Goiania+GO"
+      }
+    ]
+  },
+  {
+    "estado": "Mato Grosso",
+    "sigla": "MT",
+    "filiais": [
+      {
+        "cidade": "Cuiabá",
+        "endereco": "Rua Treze, nº 10 - Residencial Aricá - CEP 78091-406",
+        "telefones": ["(65) 99934-9872"],
+        "email": "bruno.reis65@gmail.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Treze+10+Residencial+Arica+Cuiaba+MT"
+      }
+    ]
+  },
+  {
+    "estado": "Mato Grosso do Sul",
+    "sigla": "MS",
+    "filiais": [
+      {
+        "cidade": "Campo Grande (1)",
+        "endereco": "R. Jordão, nº 1593 - Jd. Noroeste - CEP 79065-614",
+        "telefones": ["(67) 99152-1221"],
+        "email": "comercial@styllusvidros.com.br",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Jordao+1593+Jardim+Noroeste+Campo+Grande+MS"
+      },
+      {
+        "cidade": "Campo Grande (2)",
+        "endereco": "Rua Estevão Capriata, nº 417 - Vila Progresso - CEP 79050-440",
+        "telefones": ["(67) 99981-2892"],
+        "email": "varandavidros@varandavidros.com.br",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Estevao+Capriata+417+Vila+Progresso+Campo+Grande+MS"
+      },
+      {
+        "cidade": "Dourados",
+        "endereco": "R. Ediberto Celestino de Oliveira, nº 262 - Jd. Água Boa - CEP 79811-170",
+        "telefones": ["(67) 3033-0558"],
+        "email": "perfectaaluminios@gmail.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Ediberto+Celestino+262+Jardim+Agua+Boa+Dourados+MS"
+      }
+    ]
+  },
+  {
+    "estado": "Minas Gerais",
+    "sigla": "MG",
+    "filiais": [
+      {
+        "cidade": "Belo Horizonte / Nova Lima",
+        "endereco": "Rua Paraíso, nº 143 - Jardim Canadá, Nova Lima - CEP 30494-170",
+        "telefones": ["(31) 2555-8102"],
+        "email": "contato.mg@balconybrasil.com.br",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Paraiso+143+Jardim+Canada+Nova+Lima+MG"
+      },
+      {
+        "cidade": "Uberlândia (1)",
+        "endereco": "Av. Belarmino Cotta Pacheco, nº 873 - Santa Mônica - CEP 38408-168",
+        "telefones": ["(34) 3214-7990"],
+        "email": null,
+        "maps": "https://www.google.com/maps/search/?api=1&query=Av+Belarmino+Cotta+Pacheco+873+Santa+Monica+Uberlandia+MG"
+      },
+      {
+        "cidade": "Uberlândia (2)",
+        "endereco": "Rua Antônio Tomaz de Resende, nº 101 - Osvaldo Rezende - CEP 38400-487",
+        "telefones": ["(34) 3213-9493", "(34) 99677-9493"],
+        "email": "belaportas@outlook.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Antonio+Tomaz+de+Resende+101+Osvaldo+Rezende+Uberlandia+MG"
+      }
+    ]
+  },
+  {
+    "estado": "Paraná",
+    "sigla": "PR",
+    "filiais": [
+      {
+        "cidade": "Curitiba e Região Metropolitana",
+        "endereco": "Av. Getúlio Vargas, nº 3762 Loja 01 - Vila Izabel - CEP 80240-041",
+        "telefones": ["(41) 3243-6155", "(41) 3606-4512"],
+        "email": "comercial@balconysul.com.br",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Av+Getulio+Vargas+3762+Vila+Izabel+Curitiba+PR"
+      },
+      {
+        "cidade": "Apucarana",
+        "endereco": "Av. Irati, nº 591 - Barra Funda - CEP 86800-220",
+        "telefones": ["(43) 3422-1587"],
+        "email": "comercial1@moreiravidros.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Av+Irati+591+Barra+Funda+Apucarana+PR"
+      },
+      {
+        "cidade": "Astorga",
+        "endereco": "Av. Pres. Getúlio Vargas, nº 921 - Centro - CEP 86730-000",
+        "telefones": ["(44) 3234-4628"],
+        "email": "vidro_nobreindy@hotmail.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Av+Getulio+Vargas+921+Centro+Astorga+PR"
+      },
+      {
+        "cidade": "Ponta Grossa (1)",
+        "endereco": "R. Júlia Wanderley, nº 69 - Centro - CEP 84010-170",
+        "telefones": ["(41) 99667-8968", "(42) 99906-0408"],
+        "email": "jefersonsouza1980@gmail.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Julia+Wanderley+69+Centro+Ponta+Grossa+PR"
+      },
+      {
+        "cidade": "Ponta Grossa (2)",
+        "endereco": "Rua Francisco Otaviano, nº 1490 - Nova Rússia - CEP 84070-360",
+        "telefones": ["(42) 3222-3237"],
+        "email": "vidracariatomachewski@gmail.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Francisco+Otaviano+1490+Nova+Russia+Ponta+Grossa+PR"
+      },
+      {
+        "cidade": "Cascavel (1)",
+        "endereco": "Rua Alcir da Mota, nº 640 - Claudete - CEP 85811-410",
+        "telefones": ["(45) 98813-9883", "(45) 3016-0317"],
+        "email": "comercial@alumarglass.com.br",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Alcir+da+Mota+640+Claudete+Cascavel+PR"
+      },
+      {
+        "cidade": "Cascavel (2)",
+        "endereco": "Rua das Margaridas, nº 1321 - Guarujá - CEP 85804-480",
+        "telefones": ["(45) 99991-4646", "(45) 3038-4171"],
+        "email": "vidrovel.vidros@hotmail.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+das+Margaridas+1321+Guaruja+Cascavel+PR"
+      },
+      {
+        "cidade": "Cascavel (3)",
+        "endereco": "Rua Manaus, nº 2772 - Cancelli - CEP 85811-030",
+        "telefones": ["(45) 3099-4150", "(45) 99848-2418"],
+        "email": "bellaesquadrias@outlook.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Manaus+2772+Cancelli+Cascavel+PR"
+      },
+      {
+        "cidade": "Cascavel (4)",
+        "endereco": "Rua das Palmeiras, nº 3247 - Coqueiral - CEP 85807-020",
+        "telefones": ["(45) 3040-4778"],
+        "email": "vidros.com.cascavel@gmail.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+das+Palmeiras+3247+Coqueiral+Cascavel+PR"
+      },
+      {
+        "cidade": "Cascavel (5)",
+        "endereco": "Av. Tito Muffato, nº 447 - Santa Cruz - CEP 85806-080",
+        "telefones": ["(45) 3326-7556"],
+        "email": "casadosvidros_cascavel@hotmail.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Av+Tito+Muffato+447+Santa+Cruz+Cascavel+PR"
+      },
+      {
+        "cidade": "Cascavel (6)",
+        "endereco": "Av. Brasil, nº 8828 - Coqueiral - CEP 85807-030",
+        "telefones": ["(45) 3035-2434"],
+        "email": "cobravidro@hotmail.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Av+Brasil+8828+Coqueiral+Cascavel+PR"
+      },
+      {
+        "cidade": "Foz do Iguaçu",
+        "endereco": "Rua Das Guianas, nº 834 - Jardim América - CEP 85851-210",
+        "telefones": ["(45) 3522-1147", "(45) 99993-6915", "(45) 99104-8080"],
+        "email": "itaipuvidros@hotmail.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Das+Guianas+834+Jardim+America+Foz+do+Iguacu+PR"
+      },
+      {
+        "cidade": "Francisco Beltrão",
+        "endereco": "Rod. Vitório Traiano, 3050 - São Cristóvão - CEP 85605-693",
+        "telefones": ["(46) 99119-4882"],
+        "email": "vidromaxvidracaria@hotmail.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rodovia+Vitorio+Traiano+3050+Sao+Cristovao+Francisco+Beltrao+PR"
+      },
+      {
+        "cidade": "Guarapuava",
+        "endereco": "Av. Prefeito Moacir Julio Silvestri, nº 384 - Centro - CEP 85010-090",
+        "telefones": ["(42) 3623-4899", "(42) 3622-2552"],
+        "email": "contato@vidropuava.com.br",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Av+Prefeito+Moacir+Julio+Silvestri+384+Centro+Guarapuava+PR"
+      },
+      {
+        "cidade": "Guaratuba (1)",
+        "endereco": "Av. Damião Botelho de Souza, nº 1780 - Piçarras - CEP 83280-000",
+        "telefones": ["(41) 3472-2537"],
+        "email": "santosesquadriasltda@gmail.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Av+Damiao+Botelho+de+Souza+1780+Picarras+Guaratuba+PR"
+      },
+      {
+        "cidade": "Guaratuba (2)",
+        "endereco": "Rua Alexandre Correia, nº 374 - CEP 83280-000",
+        "telefones": ["(41) 3472-1526", "(41) 99716-5880"],
+        "email": "atendimento@goldtemperados.com.br",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Alexandre+Correia+374+Guaratuba+PR"
+      },
+      {
+        "cidade": "Guaratuba (3)",
+        "endereco": "Rua Tibagí, nº 918 - Cohapar - CEP 83280-000",
+        "telefones": ["(41) 3472-3364", "(41) 99683-8823"],
+        "email": "vidracaria.stcatarina@gmail.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Tibagi+918+Cohapar+Guaratuba+PR"
+      },
+      {
+        "cidade": "Litoral Paranaense / Matinhos",
+        "endereco": "Rodovia Elísio Pereira Alves Filho, nº 3638 - Matinhos - CEP 83260-000",
+        "telefones": ["(41) 99162-5942", "(41) 99977-3404"],
+        "email": "joaoeliasrc@gmail.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rodovia+Elisio+Pereira+Alves+Filho+3638+Matinhos+PR"
+      },
+      {
+        "cidade": "Londrina",
+        "endereco": "R. Venezuela, nº 282 - Vila Brasil - CEP 86010-680",
+        "telefones": ["(43) 3327-0100", "(43) 99995-3632"],
+        "email": "contato@formglass.com.br",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Venezuela+282+Vila+Brasil+Londrina+PR"
+      },
+      {
+        "cidade": "Nova Londrina",
+        "endereco": "Av. Londrina, nº 1666 - Nova Londrina - CEP 87970-000",
+        "telefones": ["(44) 99876-6703"],
+        "email": null,
+        "maps": "https://www.google.com/maps/search/?api=1&query=Av+Londrina+1666+Nova+Londrina+PR"
+      },
+      {
+        "cidade": "Maringá (1)",
+        "endereco": "R. Joaquim Guedes, nº 274 - Jd. Paris - CEP 87083-740",
+        "telefones": ["(44) 99146-5997"],
+        "email": "elizeu.dc@hotmail.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Joaquim+Guedes+274+Jardim+Paris+Maringa+PR"
+      },
+      {
+        "cidade": "Maringá (2)",
+        "endereco": "R. Neo Alves Martins, nº 1582 - Centro - CEP 87013-060",
+        "telefones": ["(44) 98419-2015"],
+        "email": "robson@laracompanyglass.com.br",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Neo+Alves+Martins+1582+Centro+Maringa+PR"
+      },
+      {
+        "cidade": "Maringá (3)",
+        "endereco": "R. Raimundo Correia, nº 243 - Zona 06 - CEP 87015-400",
+        "telefones": ["(44) 3026-7711"],
+        "email": "maicon.lino@lasvegasaluminios.com.br",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Raimundo+Correia+243+Zona+06+Maringa+PR"
+      },
+      {
+        "cidade": "Maringá (4)",
+        "endereco": "Av. São Paulo, nº 467 - Zona 07 - CEP 87013-040",
+        "telefones": ["(44) 3227-1841", "(44) 99940-8989"],
+        "email": "vidroingavidros@hotmail.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Av+Sao+Paulo+467+Zona+07+Maringa+PR"
+      },
+      {
+        "cidade": "Maringá (5)",
+        "endereco": "R. Pioneira Rosa Portela da Silva, nº 943 - Jd. Montreal - CEP 87070-660",
+        "telefones": ["(44) 3023-0403"],
+        "email": "cristaldecore@hotmail.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Pioneira+Rosa+Portela+da+Silva+943+Jardim+Montreal+Maringa+PR"
+      },
+      {
+        "cidade": "Maringá (6)",
+        "endereco": "Rua Pioneiro Antonio Bernardes, nº 627 - Jd. Dias II - CEP 87025-859",
+        "telefones": ["(44) 3263-7256", "(44) 99716-0004"],
+        "email": "contato@olividrosmaringa.com.br",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Pioneiro+Antonio+Bernardes+627+Jardim+Dias+Maringa+PR"
+      },
+      {
+        "cidade": "São Mateus do Sul",
+        "endereco": "R. Vinte e Um de Setembro, nº 427 - São Mateus do Sul - CEP 83900-000",
+        "telefones": ["(42) 3532-2480", "(42) 3532-7481"],
+        "email": "contato@universalvidros.com.br",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Vinte+e+Um+de+Setembro+427+Sao+Mateus+do+Sul+PR"
+      },
+      {
+        "cidade": "Toledo",
+        "endereco": "R. José Angelo Bombardelli, nº 1104 - São Francisco - CEP 85915-217",
+        "telefones": ["(44) 3255-1074", "(44) 3037-6938", "(44) 99838-1300"],
+        "email": "comercial@alphaesquadrias.com.br",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Jose+Angelo+Bombardelli+1104+Sao+Francisco+Toledo+PR"
+      },
+      {
+        "cidade": "Toledo / Cascavel / Foz do Iguaçu",
+        "endereco": "Avenida Parigot De Souza, nº 3302 - Vila Industrial - CEP 85906-070",
+        "telefones": ["(45) 3378-5555", "(45) 99933-5455"],
+        "email": "aludex@aludex.com.br",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Av+Parigot+De+Souza+3302+Vila+Industrial+Toledo+PR"
+      }
+    ]
+  },
+  {
+    "estado": "Pernambuco",
+    "sigla": "PE",
+    "filiais": [
+      {
+        "cidade": "Recife",
+        "endereco": "Rua Adalberto Marroquim, nº 05 - Imbiribeira - CEP 51160-390",
+        "telefones": ["(81) 3338-3746", "(81) 99695-9676", "(81) 99138-6800"],
+        "email": "comercial.recife@balconybrasil.com.br",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Adalberto+Marroquim+05+Imbiribeira+Recife+PE"
+      }
+    ]
+  },
+  {
+    "estado": "Rio Grande do Sul",
+    "sigla": "RS",
+    "filiais": [
+      {
+        "cidade": "Porto Alegre",
+        "endereco": "Rua São Benedito, nº 819 - Jd. Salso - CEP 91420-530",
+        "telefones": ["(51) 99930-3410", "(51) 3516-3500"],
+        "email": "nilson.nonino@gmail.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Sao+Benedito+819+Jardim+Salso+Porto+Alegre+RS"
+      },
+      {
+        "cidade": "Caxias do Sul (1)",
+        "endereco": "Av. Perimetral Bruno Segalla, nº 9155 - Sanvitto - CEP 95099-522",
+        "telefones": ["(54) 3223-7600"],
+        "email": "financeiro@vidrolider.com.br",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Av+Perimetral+Bruno+Segalla+9155+Sanvitto+Caxias+do+Sul+RS"
+      },
+      {
+        "cidade": "Caxias do Sul (2)",
+        "endereco": "Rua Isidoro Mary, nº 331 - Pio X - CEP 95034-020",
+        "telefones": ["(54) 3027-2804", "(54) 9929-5656"],
+        "email": "rogertzampieri@gmail.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Isidoro+Mary+331+Pio+X+Caxias+do+Sul+RS"
+      },
+      {
+        "cidade": "Nova Prata",
+        "endereco": "Av. Presidente Vargas, nº 2613 sala 01 - São Cristóvão - CEP 95320-000",
+        "telefones": ["(54) 3242-4142"],
+        "email": "contato@gbvidros.com.br",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Av+Presidente+Vargas+2613+Sao+Cristovao+Nova+Prata+RS"
+      },
+      {
+        "cidade": "Veranópolis",
+        "endereco": "Rua General Flores da Cunha - Centro - CEP 95330-000",
+        "telefones": ["(54) 3441-7058", "(54) 99942-9440"],
+        "email": "casadivertro@casadivetro.com.br",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+General+Flores+da+Cunha+Centro+Veranopolis+RS"
+      }
+    ]
+  },
+  {
+    "estado": "Rondônia",
+    "sigla": "RO",
+    "filiais": [
+      {
+        "cidade": "Nova Brasília",
+        "endereco": "R. Manoel Pedro Machado - N S Fátima - CEP 76908-580",
+        "telefones": ["(69) 3424-1001"],
+        "email": "financeiro@waesquadrias.com.br",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Manoel+Pedro+Machado+Nova+Brasilia+RO"
+      }
+    ]
+  },
+  {
+    "estado": "Santa Catarina",
+    "sigla": "SC",
+    "filiais": [
+      {
+        "cidade": "Camboriú (1)",
+        "endereco": "Rua Rio Pardo, nº 1115 - Rio Pequeno - CEP 88343-570",
+        "telefones": ["(47) 99730-1314"],
+        "email": "sc.glass.nf@gmail.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Rio+Pardo+1115+Rio+Pequeno+Camboriu+SC"
+      },
+      {
+        "cidade": "Camboriú (2)",
+        "endereco": "Rua Jacarta, nº 1143 - Santa Regina - CEP 88345-698",
+        "telefones": ["(47) 99627-3997"],
+        "email": "vitramaxfinanceiro@yahoo.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Jacarta+1143+Santa+Regina+Camboriu+SC"
+      },
+      {
+        "cidade": "Concórdia",
+        "endereco": "Rua Tancredo De Almeida Neves, nº 5401 - São Cristóvão - CEP 89711-690",
+        "telefones": ["(49) 3442-6328"],
+        "email": "comercial@artedesignesquadrias.com.br",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Tancredo+De+Almeida+Neves+5401+Sao+Cristovao+Concordia+SC"
+      },
+      {
+        "cidade": "Blumenau",
+        "endereco": "R. Benjamin Constant, nº 61 - Escola Agrícola - CEP 89031-200",
+        "telefones": ["(47) 3339-5444", "(47) 3323-0487", "(47) 99980-2450"],
+        "email": "casadovidrobnu@gmail.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Benjamin+Constant+61+Escola+Agricola+Blumenau+SC"
+      },
+      {
+        "cidade": "Faxinal dos Guedes",
+        "endereco": "Rua Araçá, nº 203 - Distrito Industrial - CEP 89694-000",
+        "telefones": ["(49) 3436-1618"],
+        "email": "contato@ciamais.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Araca+203+Distrito+Industrial+Faxinal+dos+Guedes+SC"
+      },
+      {
+        "cidade": "Florianópolis e Região",
+        "endereco": "Rua Alceu Amoroso Lima, nº 160 - Real Parque - CEP 88113-490",
+        "telefones": ["(48) 99991-2320"],
+        "email": "financeiro3dglass@gmail.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Alceu+Amoroso+Lima+160+Real+Parque+Florianopolis+SC"
+      },
+      {
+        "cidade": "Indaial",
+        "endereco": "Rua Turim, nº 183 - Tapajós - CEP 89080-236",
+        "telefones": ["(47) 3333-9525", "(47) 99101-5889"],
+        "email": "vidracaria.tapajos@yahoo.com.br",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Turim+183+Tapajos+Indaial+SC"
+      },
+      {
+        "cidade": "Joinville (1)",
+        "endereco": "Rua Santo Agostinho, nº 384 - Sala 01 - Guanabara - CEP 89207-650",
+        "telefones": ["(47) 3463-7605", "(47) 3026-6070"],
+        "email": "contato@espacodovidro.com.br",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Santo+Agostinho+384+Guanabara+Joinville+SC"
+      },
+      {
+        "cidade": "Joinville (2)",
+        "endereco": "Rua Tuiuti, nº 424 - Iririu - CEP 89227-470",
+        "telefones": ["(47) 3427-2120"],
+        "email": "janaina@vidrostuiuti.com.br",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Tuiuti+424+Iririu+Joinville+SC"
+      },
+      {
+        "cidade": "Mafra",
+        "endereco": "Rua Tenente Ary Rauen, nº 82 - Centro II Alto de Mafra - CEP 89300-052",
+        "telefones": ["(47) 3642-3937"],
+        "email": "vidrolin@vidrolin.com.br",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Tenente+Ary+Rauen+82+Centro+Mafra+SC"
+      },
+      {
+        "cidade": "Xanxerê",
+        "endereco": "R. Emílio Allet, nº 399 sala 6 - Veneza - CEP 89820-000",
+        "telefones": ["(49) 3433-9745"],
+        "email": "contato@lavitrale.com.br",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Emilio+Allet+399+Veneza+Xanxere+SC"
+      }
+    ]
+  },
+  {
+    "estado": "São Paulo",
+    "sigla": "SP",
+    "filiais": [
+      {
+        "cidade": "Santo André",
+        "endereco": "Av. Estados Unidos, nº 1112 - Parque das Nações - Santo André - CEP 09210-300",
+        "telefones": ["(11) 5555-0488", "(11) 4425-4146", "(11) 5555-0489"],
+        "email": "contato.sudeste@balconybrasil.com.br",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Av+Estados+Unidos+1112+Parque+das+Nacoes+Santo+Andre+SP"
+      },
+      {
+        "cidade": "São Bernardo do Campo",
+        "endereco": "Rua Borges de Medeiros, nº 233 - Jordanópolis - São Bernardo do Campo - CEP 09891-360",
+        "telefones": ["(11) 5555-0490", "(11) 4436-6000", "(11) 91144-6001"],
+        "email": "comercial.sp@balconybrasil.com.br",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Borges+de+Medeiros+233+Jordanopolis+Sao+Bernardo+do+Campo+SP"
+      },
+      {
+        "cidade": "Ribeirão Preto",
+        "endereco": "Rua Altíno Arantes, nº 1337 - Sumaré - CEP 14025-030",
+        "telefones": ["(16) 3931-5740"],
+        "email": null,
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Altino+Arantes+1337+Sumare+Ribeirao+Preto+SP"
+      },
+      {
+        "cidade": "Campinas",
+        "endereco": "Rua Tenente Pedro Batista Bueno, nº 25 - Parque São Martinho - CEP 13040-707",
+        "telefones": ["(19) 3381-0041", "(19) 3381-0051"],
+        "email": null,
+        "maps": "https://www.google.com/maps/search/?api=1&query=Rua+Tenente+Pedro+Batista+Bueno+25+Parque+Sao+Martinho+Campinas+SP"
+      }
+    ]
+  }
+]
