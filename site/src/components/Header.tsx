@@ -28,13 +28,13 @@ export default function Header() {
       }`}
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex items-center justify-between h-20">
+        <div className="flex items-center justify-between h-32">
           {/* Logo */}
           <a href="#inicio" className="flex items-center gap-3 shrink-0">
             <img
-              src="/images/logo.jpg"
+              src="/images/logoBalcony.png"
               alt="Balcony Brasil"
-              className="h-12 w-auto object-contain rounded"
+              className="h-28 w-auto object-contain rounded"
             />
           </a>
 
